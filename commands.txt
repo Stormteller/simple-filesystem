@@ -1,0 +1,15 @@
+cr ff
+op dd
+op ff
+wt 1 qwerty
+cl 1
+rd 3 44
+op ff
+rd 1 7
+lsk 1 1
+wt 1 sss
+cl 1
+op ff
+rd 1 15
+cl 1
+dump new.fs
